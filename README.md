@@ -59,7 +59,7 @@ Tecla E: Regresa los datos a su valor inicial
 
 ![image](https://user-images.githubusercontent.com/71307223/139126368-47e7c8dd-7a31-4912-950c-a99a70f8cd8e.png)
 
-#Resultados
+# Resultados
 Al tener todas las tranformaciones se mostrara cada una de las transformacion en el siguiente orden
 
 Vista inicial
